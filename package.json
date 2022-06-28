@@ -1,0 +1,18 @@
+{
+  "name": "turismo",
+  "version": "1.0.0",
+  "description": "Pagina para ver el turismo en Colombia.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Yaira"
+  },
+  "author": "Yaira Torres",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
